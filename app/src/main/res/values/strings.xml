@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CryptoStats</string>
+    <string name="bot_button_1">Home</string>
+    <string name="bot_button_2">Sandbox</string>
+    <string name="bot_button_3">Orders</string>
+    <string name="title_activity_sandbox">SandboxActivity</string>
+    <string name="title_home">Exchange List</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="radiobutton1">3 Days</string>
+    <string name="radiobutton2">Week</string>
+    <string name="radiobutton3">Month</string>
+    <string name="currencyFrom">curr1</string>
+    <string name="currencyTo">curr2</string>
+    <string name="amtFrom">amt1</string>
+    <string name="amtTo">amt2</string>
+    <string name="date">Date</string>
+</resources>
